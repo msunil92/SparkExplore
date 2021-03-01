@@ -14,3 +14,9 @@ to add data:
 xadd users * language 2 count 30
 xadd users * language 4 count 43
 
+Others:
+
+https://redislabs.com/blog/get-sql-like-experience-redis/
+
+redis-cli -h localhost -p 6379 monitor
+
